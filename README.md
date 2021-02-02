@@ -8,7 +8,7 @@ Bahan :
 3. Breadboard
 4. Resistor (220 Ohm/1000 Omh)
 5. Lampu LED (Biru, Merah, Hijau, Kuning)
-6. Sensor Ultrasonik HC-SR04
+6. Sensor Ultrasonik HC-SR04  
 Algoritma Kerja :
 1. Jika sensor ping mendeteksi benda diatas (>=) 300 cm , maka lampu LED BIRU dan KUNING menyala bersamaan (lampu yang lain mati semua)
 2. Jika sensor ping mendeteksi benda antara >= 200 cm hingga < 300cm , maka LAMPU MERAH menyala (lampu yang lain mati semua)
